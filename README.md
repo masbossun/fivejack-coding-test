@@ -6,6 +6,8 @@ this repository contains the answer of Five Jack Coding Test
 - `dua.js` for answer question #2
 - `tiga.js` for answer question #3
 
+using `node {file}.js` will print the answer
+
 
 
 # Environment
