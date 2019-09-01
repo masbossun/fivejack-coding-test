@@ -10,4 +10,4 @@ this repository contains the answer of Five Jack Coding Test
 
 # Environment
 
-![nodejs-version]("https://raw.githubusercontent.com/masbossun/fivejack-coding-test/master/nodejs.png")
+![nodejs-version](https://raw.githubusercontent.com/masbossun/fivejack-coding-test/master/nodejs.png)
